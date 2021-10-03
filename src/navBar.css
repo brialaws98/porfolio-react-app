@@ -1,8 +1,6 @@
 .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand{
     max-width: 150px;
-    color: white;
-    background: #0DCAF0;
-    border: 1px solid black;
+    border: 1px solid transparent;
     border-radius: 5px;
     padding: 5px;
   }
