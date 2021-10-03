@@ -1,11 +1,12 @@
 import './App.css';
-import navbar from "./navBar";
+import NavBar from "./NavBar";
+import "./navBar.css";
 
 export default function App() {
   return (
    <div className="App">
 
-    <navBar />
+<NavBar />
 
 
     <footer>

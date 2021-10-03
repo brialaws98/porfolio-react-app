@@ -1,9 +1,8 @@
 import React from "react";
 import "./navBar.css";
 
- export default function navbar(){
+ export default function NavBar(){
      return(
-         <div>
                   
               <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
@@ -31,6 +30,5 @@ import "./navBar.css";
       </div>
     </div>
   </nav>
-         </div>
      );
  }
