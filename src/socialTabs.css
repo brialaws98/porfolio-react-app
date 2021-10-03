@@ -1,0 +1,24 @@
+.whole_footer{
+    background: #C4C4C4;
+    margin: 2px;
+  }
+   .email-link {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+  }
+  
+  .email-link:hover {
+    color: purple;
+  }
+  .social-links{
+    padding-bottom: 3rem;
+  }
+  
+  .social-links a {
+    margin: 0 20px;
+    padding: 10px 14px;
+    border-radius: 50%;
+    font-size: 18px;
+    transition: all 100ms ease-in-out;
+  }
